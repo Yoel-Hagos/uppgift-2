@@ -1,0 +1,1 @@
+I denna uppgift har jag skapat en todo lista som kommunicerar med en extern server. Jag använde ChatGPT för att få hjälp med att rätta min kod och för att få tips på hur jag kan förbättra och optimera den.
