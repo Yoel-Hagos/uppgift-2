@@ -1,5 +1,5 @@
-const apiKey = "fe35226c-9d14-4a2e-85db-8d49a8922db6";
-const baseUrl = "https://js1-todo-api.vercel.app/api/todos";
+const apiKey = "Hidden";
+const baseUrl = "hidden";
 
 
 document.addEventListener("DOMContentLoaded", fetchTodos);
